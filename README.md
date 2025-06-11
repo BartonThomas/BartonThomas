@@ -41,10 +41,18 @@ As a Computer Science student at the Institute of Technology and Leadership, I a
 ## 💻 Repos
 
 <p align="center">
-  <img src="./ael.png" alt="Imagem 1" width="400" style="margin:10px" />
-  <img src="./stone.png" alt="Imagem 2" width="400" style="margin:10px" />
+  <a href="https://github.com/2023M5T1-Inteli/grupo2">  
+  <img src="./ael.png" alt="Imagem 1" width="350" style="margin:10px" />
+  </a>
+  <a href="https://github.com/InteliProjects/2023M7T1-Inteli-Grupo-5">
+  <img src="./stone.png" alt="Imagem 2" width="350" style="margin:10px" />
+  </a>
 </p>
 <p align="center">
-  <img src="./klabin.png" alt="Imagem 3" width="400" style="margin:10px" />
-  <img src="./aacd.png" alt="Imagem 4" width="400" style="margin:10px" />
+  <a href="https://github.com/2023M6T1-Inteli/grupo5_publico">  
+  <img src="./klabin.png" alt="Imagem 3" width="350" style="margin:10px" />
+  </a>
+  <a src="https://github.com/InteliProjects/2023M8T1Inteli-grupo3">  
+  <img src="./aacd.png" alt="Imagem 4" width="350" style="margin:10px" />
+  </a>
 </p>
