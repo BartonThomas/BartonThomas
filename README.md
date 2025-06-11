@@ -2,7 +2,7 @@
 
 As a Computer Science student at the Institute of Technology and Leadership, I am passionate about exploring the capabilities of technology. My project-based education in college taught me the importance of teamwork and gave me experience in project management techniques such as Scrum and Kanban. Fluent in Portuguese and English, I am a versatile and adaptable team player. My background in sports such as judo, volleyball, and chess taught me the value of discipline and competition, and I am confident in my ability to succeed in a challenging environment. As a former Boy Scout, I also have experience in leadership, teamwork, and some outdoor skills. I am a big fan of the areas of AI and Machine Learning.
 
-## Stacks and Technologies
+## ▶️ Stacks and Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
@@ -25,7 +25,7 @@ As a Computer Science student at the Institute of Technology and Leadership, I a
   <img align="center" alt="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
 </div>
 
-## Networking
+## 😀 Networking
 
 <div> 
 
@@ -34,8 +34,19 @@ As a Computer Science student at the Institute of Technology and Leadership, I a
   
 </div>
 
-## Metrics
+## 📊 Metrics
 
 <center>
 <img src='./Group 65.png' width='500px'></img>
 </center>
+
+## 💻 Repos
+
+<p align="center">
+  <img src="./ael.png" alt="Imagem 1" width="400" style="margin:10px" />
+  <img src="./stone.png" alt="Imagem 2" width="400" style="margin:10px" />
+</p>
+<p align="center">
+  <img src="./klabin.png" alt="Imagem 3" width="400" style="margin:10px" />
+  <img src="./aacd.png" alt="Imagem 4" width="400" style="margin:10px" />
+</p>
