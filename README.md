@@ -25,6 +25,8 @@ As a Computer Science student at the Institute of Technology and Leadership, I a
   <img align="center" alt="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
 </div>
 
+<br>
+
 ## 😀 Networking
 
 <div> 
@@ -34,11 +36,7 @@ As a Computer Science student at the Institute of Technology and Leadership, I a
   
 </div>
 
-## 📊 Metrics
-
-<center>
-<img src='./Group 65.png' width='500px'></img>
-</center>
+<br>
 
 ## 💻 Repos
 
